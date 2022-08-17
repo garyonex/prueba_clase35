@@ -1,5 +1,8 @@
 *{
     padding: 0;
     margin: auto;
-    background-color: rgba(71, 5, 83, 0.692);
+    background-color: rgba(219, 246, 250, 0.692);
+}
+h1{
+    color: rgb(174, 255, 0);
 }
